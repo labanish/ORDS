@@ -1,2 +1,2 @@
 # ORDS
-The exported DDL and sample data from vacancies Table
+The exported DDL with sample data from vacancies Table
